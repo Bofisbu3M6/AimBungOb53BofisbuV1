@@ -1,7 +1,7 @@
 {
-  "Ser": "BOX-VIP-OFFLINE-DRAG",
+  "Ser": "BOX-VIP-OFFLINE-AIMBODY",
   "Ma": {
-    "TranHuuLongFree": {
+    "NguyenLongAdminVip": {
       "e": "31/12/2026"
     }
   }
